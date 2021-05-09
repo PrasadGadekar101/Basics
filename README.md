@@ -1,2 +1,2 @@
 # Basics
-General purpose functions used in the developed application
+General purpose functions used in my applications.
